@@ -11,7 +11,7 @@
 * [重新复习一遍C++](#C++)
 * [重新复习一遍Python](#Python)
 * [Detectron2](#Detectron2)
-* [WeekList](#Detectron2)
+* [WeekList](#Weekly List)
 
 ### C++
 #### Week1 5月3日-5月9日
