@@ -13,8 +13,7 @@
 * [Detectron2](#Detectron2)
 * [Weekly List](#Weekly List)
 ### C++
-* Progress
-  * Week1 5月3日-5月9日
+#### Week1 5月3日-5月9日
 | |progress|
 |----|----|
 |星期一| |
@@ -26,8 +25,7 @@
 |星期天| |
   
 ### Python
-* Progress
-  * Week1 5月3日-5月9日
+#### Week1 5月3日-5月9日
 | |progress|
 |----|----|
 |星期一| | 
@@ -39,8 +37,7 @@
 |星期天| | 
   
 ### Detectron2
-* Progress
-  * Week1 5月3日-5月9日
+#### Week1 5月3日-5月9日
 | |progress|
 |----|----|
 |星期一| | 
