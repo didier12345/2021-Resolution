@@ -11,7 +11,7 @@
 * [重新复习一遍C++](#C++)
 * [重新复习一遍Python](#Python)
 * [Detectron2](#Detectron2)
-* [WeekList](#Weekly List)
+* [WeekList](#WeekList)
 
 ### C++
 #### Week1 5月3日-5月9日
@@ -50,7 +50,7 @@
 |星期天| | 
   
 
-### Weekly List
+### WeekList
 #### Week1 5月3日-5月9日
 | |5个英语单词|5句短语|看一个小时花园书|3组10个俯卧撑|3组10个哑铃|
 |----|----|----|----|----|----|
